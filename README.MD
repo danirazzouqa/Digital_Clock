@@ -1,2 +1,2 @@
-# DIgital Clock (Animation.gif)
+# DIgital Clock
 
