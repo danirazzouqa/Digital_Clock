@@ -20,7 +20,7 @@ fetch('https://worldtimeapi.org/api/ip')
     
     // Convert to 12-hour format
     if (hour > 12) {
-      hour -= 12;
+      hour = hour - 12;
       ampm = 'PM';
     }
     
